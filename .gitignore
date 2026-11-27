@@ -1,6 +1,9 @@
 # Private database configuration
 db.php
 
+# Database testing file
+test_connection.php
+
 # Uploaded student photographs
 uploads/*
 
@@ -9,4 +12,11 @@ uploads/*
 
 # Temporary files
 *.log
+*.tmp
+
+# Operating system files
 .DS_Store
+Thumbs.db
+
+# Editor settings
+.vscode/
