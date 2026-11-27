@@ -1,0 +1,12 @@
+# Private database configuration
+db.php
+
+# Uploaded student photographs
+uploads/*
+
+# Keep the uploads folder in GitHub
+!uploads/.gitkeep
+
+# Temporary files
+*.log
+.DS_Store
